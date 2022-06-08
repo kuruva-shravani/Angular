@@ -1,0 +1,354 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "shravani",
+      "password": "shravani",
+      "email-id": "shravani@gmail.com",
+      "phone-no": "7032231110"
+    },
+    {
+      "id": 2,
+      "username": "ramya",
+      "password": "krishna",
+      "email-id": "ramya@gmail.com",
+      "phone-no": "7032231111"
+    },
+    {
+      "username": "sanjay",
+      "email-id": "sanjay@gmail.com",
+      "password": "sanjay",
+      "phone-no": "7032231112",
+      "id": 3
+    },
+    {
+      "username": "yerun",
+      "email-id": "yerun@gmail.com",
+      "password": "yerun",
+      "phone-no": "7032231113",
+      "id": 4
+    },
+    {
+      "username": "bhanu",
+      "email-id": "bhanu@gmail.com",
+      "password": "bhanu",
+      "phone-no": "7032231114",
+      "id": 5
+    },
+    {
+      "username": "sajeed",
+      "email-id": "sajeed@gmail.com",
+      "password": "sajeed",
+      "phone-no": "7032231113",
+      "id": 6
+    }
+  ],
+  "womendata": [
+    {
+      "id": 1,
+      "imageurl": "https://rukminim2.flixcart.com/image/832/832/kj7gwi80-0/top/b/l/g/l-117tkr2636-selvia-original-imafytvnzca5cyrd.jpeg?q=70",
+      "price": "₹349",
+      "brand": "Selvia",
+      "productname": "Casual Regular Sleeves Printed Women Purple Top"
+    },
+    {
+      "id": 2,
+      "imageurl": "https://rukminim2.flixcart.com/image/832/832/kn6cxow0/kurta/d/v/x/m-kr-15-wine-kriska-original-imagfwqejghzhzhu.jpeg?q=70",
+      "price": "₹449",
+      "brand": "Kriska",
+      "productname": "Women Embroidered Rayon A-line Kurta (Maroon)"
+    },
+    {
+      "id": 3,
+      "imageurl": "https://rukminim2.flixcart.com/image/612/612/l2dmky80/t-shirt/q/u/r/s-mwss22tsrt045d-metronaut-original-imagdqkhywu6vkve.jpeg?q=70",
+      "price": "₹599",
+      "brand": "Divastri",
+      "productname": "Women Embroidered Rayon Anarkali Kurta (Blue)"
+    },
+    {
+      "id": 4,
+      "imageurl": "https://rukminim2.flixcart.com/image/832/832/l2urv680/kurta/x/l/n/l-maroon-embroidery-kurta-shreeji-enterprise-original-image3zhqgxyzhuc.jpeg?q=70",
+      "price": "₹599",
+      "brand": "SHREEJI ENTERPRISE",
+      "productname": "Women Embroidered Georgette A-line Kurta (Maroon)"
+    },
+    {
+      "id": 5,
+      "imageurl": "https://rukminim2.flixcart.com/image/832/832/l0bbonk0/top/f/b/q/s-mntwtop1004-metronaut-original-imagc4r7g7pgqkrx.jpeg?q=70",
+      "price": "₹426",
+      "brand": "METRONAUT",
+      "productname": "Casual Regular Sleeves Solid Women Black Top"
+    },
+    {
+      "id": 6,
+      "imageurl": "https://rukminim2.flixcart.com/image/612/612/l3929ow0/t-shirt/j/s/t/l-mod-6101-rosepink-modeve-original-imageew2w9vw4fbh.jpeg?q=70",
+      "price": "₹386",
+      "brand": "IN Love ",
+      "productname": "Women Straight Full Sleeve Brown Shrug"
+    },
+    {
+      "id": 7,
+      "imageurl": "https://rukminim2.flixcart.com/image/612/612/jpodaq80/shrug/n/e/q/5xl-ibcp255ml-indibelle-original-imafbufrx8xnnbgh.jpeg?q=70",
+      "price": "₹450",
+      "brand": "Serein ",
+      "productname": "Women Asymmetric 3/4th Sleeve Green Shrug"
+    },
+    {
+      "id": 8,
+      "imageurl": "https://rukminim2.flixcart.com/image/832/832/klphn680/top/n/5/x/xl-regular-top-fab-star-original-imagyry2geb5ztzq.jpeg?q=70",
+      "price": "₹379",
+      "brand": "Fab Star",
+      "productname": "Casual Regular Sleeves Solid Women Pink Top"
+    },
+    {
+      "id": 9,
+      "imageurl": "https://rukminim2.flixcart.com/image/832/832/klo27bk0/top/c/l/p/m-147tkr2785a-selvia-original-imagyq82gwvysrqy.jpeg?q=70",
+      "price": "₹249",
+      "brand": "Selvia ",
+      "productname": "Casual Regular Sleeves Laser Cut"
+    },
+    {
+      "id": 10,
+      "imageurl": "https://rukminim2.flixcart.com/image/832/832/kpvivm80/top/s/q/l/m-13321440-roadster-original-imag4yaqp4pge4hw.jpeg?q=70",
+      "price": "₹320",
+      "brand": "Roadster",
+      "productname": "Casual Sleeveless Striped Women Pink Top"
+    }
+  ],
+  "mendata": [
+    {
+      "id": 1,
+      "imageurl": "https://rukminim1.flixcart.com/image/580/696/kx50gi80/shirt/o/r/l/xl-winter-12-asian-fitch-original-imag9nyqtrqkqh8g.jpeg?q=50",
+      "price": "₹1749",
+      "brand": "US Polo",
+      "productname": "Men Slim Fit Checkered Casual Shirt"
+    },
+    {
+      "id": 2,
+      "imageurl": "https://sslimages.shoppersstop.com/sys-master/images/hc2/h40/26971782021150/S22SFCSLB930357_BLACK.jpg_230Wx334H",
+      "price": "₹2199",
+      "brand": "Louis Philippe Sports",
+      "productname": "Solid Cotton Slim Fit Mens Casual Shirt"
+    },
+    {
+      "id": 3,
+      "imageurl": "https://rukminim1.flixcart.com/image/580/696/kyeqjrk0/shirt/e/e/h/s-den-sng-01-regrowth-original-imaganhquyfzd3kz.jpeg?q=50",
+      "price": "₹474",
+      "brand": "Regrowth",
+      "productname": "Men Regular Fit Solid Casual Shirt"
+    },
+    {
+      "id": 4,
+      "imageurl": "https://rukminim1.flixcart.com/image/880/1056/kjuby4w0/t-shirt/s/x/z/m-fc4058-fastcolors-original-imafzbj546kdvbh8.jpeg?q=50",
+      "price": "₹314",
+      "brand": "FastColors",
+      "productname": "Solid Men Round Neck White, Black T-Shirt"
+    },
+    {
+      "id": 5,
+      "imageurl": "https://rukminim1.flixcart.com/image/880/1056/l16rde80/t-shirt/g/p/2/xxl-tnvrn-d45-tripr-original-imagctyamnfghsdw.jpeg?q=50",
+      "price": "₹205",
+      "brand": "TRIPR ",
+      "productname": "Printed Men Round Neck Dark Blue T-Shirt"
+    },
+    {
+      "id": 6,
+      "imageurl": "https://sslimages.shoppersstop.com/sys-master/images/h84/had/27490607267870/S22THP2AMK196_RED.jpg_230Wx334H",
+      "price": "₹2499",
+      "brand": "Tommy Hilfiger",
+      "productname": "Solid Cotton Blend Regular Mens T-Shirt"
+    },
+    {
+      "id": 7,
+      "imageurl": "https://sslimages.shoppersstop.com/sys-master/images/h46/h24/27128527683614/S22MSH01BB308GR_GREEN.jpg_1088Wx1632H",
+      "price": "₹1679",
+      "brand": "Spykar",
+      "productname": "Stripes Cotton Slim Fit Mens Casual Shirt"
+    },
+    {
+      "id": 8,
+      "imageurl": "https://sslimages.shoppersstop.com/sys-master/images/h98/hf2/17464542068766/A21INFUSE15_NAVY.jpg_136Wx204H",
+      "price": "₹610",
+      "brand": "Infuse",
+      "productname": "Printed Rayon Comfort Fit Mens Casual Shirt"
+    },
+    {
+      "id": 9,
+      "imageurl": "https://sslimages.shoppersstop.com/sys-master/images/hfc/h75/27501296451614/S2232874-0451_BLUE.jpg_230Wx334H",
+      "price": "₹2379",
+      "brand": "Levis",
+      "productname": "Checks Cotton Regular Fit Mens Casual Shirt"
+    },
+    {
+      "id": 10,
+      "imageurl": "https://rukminim1.flixcart.com/image/880/1056/ke8uv0w0-0/shirt/b/4/u/40-12056228-roadster-original-imafuyuuhydyzkcc.jpeg?q=50",
+      "price": "₹1999",
+      "brand": "Puma",
+      "productname": "Men Regular Fit Checkered Spread Collar Casual Shirt"
+    }
+  ],
+  "shoes": [
+    {
+      "id": 1,
+      "imageurl": "https://rukminim1.flixcart.com/image/880/1056/krayqa80/shoe/k/s/y/7-rm-110-27-tpent-dark-grey-original-imag54kjfsbnt6qm.jpeg?q=50",
+      "price": "₹372",
+      "brand": "TPENT ",
+      "productname": "STYLISH LIGHT WEIGHT SPORTS SHOES FOR BOYS Slip On Sneakers For Men  (Grey)"
+    },
+    {
+      "id": 2,
+      "imageurl": "https://rukminim1.flixcart.com/image/880/1056/kzzw5u80/shoe/f/y/x/6-mw-386-white-fashion-mileswalker-white-original-imagbvnskqqrjzka.jpeg?q=50",
+      "price": "₹376",
+      "brand": "MILESWALKER ",
+      "productname": "Running Shoes For Men Running Shoes For Men  (White)"
+    },
+    {
+      "id": 3,
+      "imageurl": "https://rukminim1.flixcart.com/image/580/696/kx50gi80/slipper-flip-flop/k/p/f/7-ffm04-brainer-red-original-imag9nyznfhhh3t3.jpeg?q=50",
+      "price": "₹199",
+      "brand": "Brainer",
+      "productname": "Slides  (Red 8)"
+    },
+    {
+      "id": 4,
+      "imageurl": "https://rukminim1.flixcart.com/image/880/1056/k7gikcw0/sandal/u/c/n/oval-belt-sandal-copper-42-brauch-copper-original-imafpzuvzrwzndbh.jpeg?q=50",
+      "price": "₹359",
+      "brand": "Brauch ",
+      "productname": "Women Copper Flats Sandal"
+    },
+    {
+      "id": 5,
+      "imageurl": "https://rukminim1.flixcart.com/image/880/1056/ku04o7k0/sandal/l/7/q/5-rof-004-5-right-one-black-original-imag77xjfhnzgkhd.jpeg?q=50",
+      "price": "₹263",
+      "brand": "Right One ",
+      "productname": "Women Black Flats Sandal"
+    },
+    {
+      "id": 6,
+      "imageurl": "https://rukminim1.flixcart.com/image/580/696/kqjtd3k0/sandal/6/k/v/5-gd602-38-picktoes-copper-original-imag4j7zq5y8sh8h.jpeg?q=50",
+      "price": "₹450",
+      "brand": "Picktoes ",
+      "productname": "Women Brown Heels Sandal"
+    },
+    {
+      "id": 7,
+      "imageurl": "https://rukminim1.flixcart.com/image/580/696/l31x2fk0/shoe/s/i/v/4-jkpsb99blk-4-jk-port-black-original-image9c2qtdmsehz.jpeg?q=50",
+      "price": "₹399",
+      "brand": "JK PORT ",
+      "productname": "Fashionable Mens Black Sports Shoes For Running"
+    },
+    {
+      "id": 8,
+      "imageurl": "https://rukminim1.flixcart.com/image/580/696/kvvad8w0/sandal/t/j/r/8-cc0341-street-style-store-white-original-imag8z9hjgvwpemv.jpeg?q=50",
+      "price": "₹449",
+      "brand": "SHOETOPIA ",
+      "productname": "Women White Flats Sandal"
+    },
+    {
+      "id": 9,
+      "imageurl": "https://rukminim1.flixcart.com/image/880/1056/l0mr7gw0/sandal/5/m/q/8-s-1410-arranque-black-original-imagcdgnxwnf8sqq.jpeg?q=50",
+      "price": "₹295",
+      "brand": "ArranQue ",
+      "productname": "Women Black Wedges Sandal"
+    },
+    {
+      "id": 10,
+      "imageurl": "https://rukminim1.flixcart.com/image/580/696/ku5ufm80/sandal/z/3/z/9-ha6056-kraasa-grey-original-imag7cnwczdu57hg.jpeg?q=50",
+      "price": "₹249",
+      "brand": "Kraasa",
+      "productname": "Men Grey Casual Sandal"
+    }
+  ],
+  "bags": [
+    {
+      "id": 1,
+      "imageurl": "https://tinyurl.com/yhzk6fxa",
+      "price": "₹459",
+      "brand": "sky spirit ",
+      "productname": "Travel Rucksack Backpack"
+    },
+    {
+      "id": 2,
+      "imageurl": "https://rukminim1.flixcart.com/image/880/1056/kmp7ngw0/backpack/t/n/z/brat-bpbratesgn-backpack-skybags-original-imagfjkt7mrffhgp.jpeg?q=50",
+      "price": "₹719",
+      "brand": "SKYBAGS ",
+      "productname": "21.65 L Backpack BRAT "
+    },
+    {
+      "id": 3,
+      "imageurl": "https://tinyurl.com/2p8jkpvv",
+      "price": "₹895",
+      "brand": "Baggit",
+      "productname": "Women Beige Solid Small Backpack"
+    },
+    {
+      "id": 4,
+      "imageurl": "https://tinyurl.com/423baehx",
+      "price": "₹625",
+      "brand": "Baggit",
+      "productname": "Women Sea Green Three Fold Wallet"
+    },
+    {
+      "id": 5,
+      "imageurl": "https://assets.ajio.com/medias/sys_master/root/20220104/UZWN/61d46187f997dd6623101352/lavie_black_malgana_large_tote_handbag.jpg ",
+      "price": "₹1212",
+      "brand": "LAVIE",
+      "productname": "Betula 1 Small Tote"
+    },
+    {
+      "id": 6,
+      "imageurl": "https://assets.ajio.com/medias/sys_master/root/20211123/jsRK/619c19bcaeb2690110d29c57/-473Wx593H-463352155-beige-MODEL.jpg",
+      "price": "₹1,974",
+      "brand": "KAZO",
+      "productname": "Ruched with Shoulder Bag"
+    },
+    {
+      "id": 7,
+      "imageurl": "https://assets.ajio.com/medias/sys_master/root/20210413/rgiy/6074b946aeb269a9e38e504a/astrid_blue_geometric_print_tote_bag_with_pouch.jpg",
+      "price": "₹624",
+      "brand": "ASTRID",
+      "productname": "Geometric Print Tote Bag with Pouch"
+    },
+    {
+      "id": 8,
+      "imageurl": "https://assets.ajio.com/medias/sys_master/root/20220311/yksT/622b664faeb26921afd3e3ab/fargo_blue_set_of_5_handbag_with_pouches.jpg",
+      "price": "₹1,200",
+      "brand": "FARGO",
+      "productname": "Set of 5 Handbag with Pouches"
+    },
+    {
+      "id": 9,
+      "imageurl": "https://assets.ajio.com/medias/sys_master/root/20210811/0YbN/6112de0bf997ddce899ab0bf/avaasa_maroon_embroidered_sling_bag.jpg",
+      "price": "₹489",
+      "brand": "AVAASA",
+      "productname": "Embroidered Sling Bag"
+    },
+    {
+      "id": 10,
+      "imageurl": "https://assets.ajio.com/medias/sys_master/root/20220118/K9og/61e5d5d6f997dd662326f667/zouk_black_printed_16%27%27_laptop_bag_.jpg",
+      "price": "₹1,751",
+      "brand": "ZOUK",
+      "productname": "Printed 16'' Laptop Bag"
+    }
+  ],
+  "addToCart": [
+    {
+      "id": 2,
+      "imageurl": "https://sslimages.shoppersstop.com/sys-master/images/hc2/h40/26971782021150/S22SFCSLB930357_BLACK.jpg_230Wx334H",
+      "price": "₹2199",
+      "brand": "Louis Philippe Sports",
+      "productname": "Solid Cotton Slim Fit Mens Casual Shirt",
+      "quantity": 1,
+      "subtotal": "2199"
+    },
+    {
+      "id": 1,
+      "imageurl": "https://rukminim1.flixcart.com/image/580/696/kx50gi80/shirt/o/r/l/xl-winter-12-asian-fitch-original-imag9nyqtrqkqh8g.jpeg?q=50",
+      "price": "₹1749",
+      "brand": "US Polo",
+      "productname": "Men Slim Fit Checkered Casual Shirt",
+      "quantity": 1,
+      "subtotal": "1749"
+    }
+  ]
+}
